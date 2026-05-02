@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8c1819e6-6236-493f-91e6-5fcb27eced98",
+    "time": "08:00",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "message": "\ud83c\udf05 Morning study session!",
+    "enabled": true,
+    "reminder_type": "study",
+    "repeat": true,
+    "created_at": "2026-05-02T17:14:04.644677",
+    "last_triggered": ""
+  },
+  {
+    "id": "faf48f18-123f-41c5-8baf-cfd8ae8a6f2e",
+    "time": "14:00",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "message": "\ud83d\udcd6 Time for afternoon review!",
+    "enabled": true,
+    "reminder_type": "review",
+    "repeat": true,
+    "created_at": "2026-05-02T17:14:05.758234",
+    "last_triggered": ""
+  },
+  {
+    "id": "73234602-4be4-43ab-b827-eff1952725ae",
+    "time": "19:00",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "message": "\ud83c\udccf Review your flashcards!",
+    "enabled": true,
+    "reminder_type": "review",
+    "repeat": true,
+    "created_at": "2026-05-02T17:14:06.725421",
+    "last_triggered": ""
+  },
+  {
+    "id": "88de1c72-4069-4373-a121-e469cb7568c0",
+    "time": "10:30",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "message": "\u2615 Take a short break!",
+    "enabled": true,
+    "reminder_type": "break",
+    "repeat": true,
+    "created_at": "2026-05-02T17:14:07.453796",
+    "last_triggered": ""
+  },
+  {
+    "id": "c34699af-3044-476f-9abd-28b1b8d07735",
+    "time": "10:00",
+    "days": [
+      5,
+      6
+    ],
+    "message": "\ud83d\udcda Weekend study session!",
+    "enabled": true,
+    "reminder_type": "study",
+    "repeat": true,
+    "created_at": "2026-05-02T17:14:08.171195",
+    "last_triggered": ""
+  }
+]

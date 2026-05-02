@@ -1,0 +1,243 @@
+2026-02-25 08:43:39 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 08:43:39 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 0 users
+2026-02-25 08:44:12 | edumind.auth         | INFO     | auth_service.py:272 | New OAuth user registered: shaqran124@gmail.com via google
+2026-02-25 08:44:12 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran124@gmail.com
+2026-02-25 08:44:12 | edumind.auth_dialogs | INFO     | auth_dialogs.py:561 | Google login successful: shaqran124@gmail.com
+2026-02-25 08:46:14 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 08:46:14 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 08:46:17 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 08:46:17 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 08:46:41 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran124@gmail.com
+2026-02-25 08:46:41 | edumind.auth_dialogs | INFO     | auth_dialogs.py:561 | Google login successful: shaqran124@gmail.com
+2026-02-25 08:46:41 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 08:46:42 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 08:46:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 08:46:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 08:46:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 08:46:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 08:46:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 08:46:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 08:46:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 08:46:49 | edumind.cloud_sync   | INFO     | sync.py:45 | Starting cloud sync for user_9b67dd09619e4260
+2026-02-25 08:46:51 | edumind.cloud_sync   | INFO     | sync.py:53 | Sync completed successfully
+2026-02-25 08:48:41 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 08:48:41 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 08:48:44 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 08:48:44 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 08:49:00 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 08:49:00 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 08:49:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 08:49:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 08:49:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 08:49:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 08:49:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 08:49:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 08:49:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 08:49:24 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1760 chars
+2026-02-25 08:49:24 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 1792 chars
+2026-02-25 08:49:24 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 3: 931 chars
+2026-02-25 08:49:24 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 3 chunks (avg: 1494 chars)
+2026-02-25 08:49:30 | edumind.focus_mode   | INFO     | focus_mode.py:252 | Focus timer started
+2026-02-25 08:49:32 | edumind.focus_mode   | INFO     | focus_mode.py:252 | Focus timer started
+2026-02-25 09:34:44 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 09:34:44 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 09:34:48 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 09:34:48 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 09:35:07 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 09:38:01 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 09:38:01 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 09:38:04 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 09:38:04 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 09:38:17 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 09:39:59 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 09:39:59 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 09:40:02 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 09:40:02 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 09:40:14 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 09:40:15 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 09:40:15 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 09:40:15 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 09:40:15 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 09:40:15 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 09:40:15 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 09:40:15 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 09:40:15 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 09:44:57 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 09:44:57 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 09:45:00 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 09:45:00 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 09:45:13 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 09:45:14 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 09:45:14 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 09:45:14 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 09:45:14 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 09:45:14 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 09:45:14 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 09:45:14 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 09:45:14 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 09:45:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1753 chars
+2026-02-25 09:45:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 815 chars
+2026-02-25 09:45:18 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 2 chunks (avg: 1284 chars)
+2026-02-25 09:47:46 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 09:47:46 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 09:47:49 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 09:47:49 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 09:48:24 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 09:48:25 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 09:48:25 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 09:48:25 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 09:48:25 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 09:48:25 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 09:48:25 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 09:48:25 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 09:48:25 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 10:11:36 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 10:11:36 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 10:11:39 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 10:11:39 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 10:14:57 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 10:14:57 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 10:15:00 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 10:15:00 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 10:19:21 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 10:19:21 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 10:19:24 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 10:19:24 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 10:26:56 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 10:26:56 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 10:26:59 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 10:26:59 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 10:27:58 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran124@gmail.com
+2026-02-25 10:27:58 | edumind.auth_dialogs | INFO     | auth_dialogs.py:573 | Google login successful: Shaqran124@gmail.com
+2026-02-25 10:27:58 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 10:27:58 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 10:27:58 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 10:27:58 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 10:27:58 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 10:27:58 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 10:27:58 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 10:27:58 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 10:27:58 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 10:28:49 | edumind.settings_dialog | INFO     | settings_dialog.py:370 | Settings saved successfully
+2026-02-25 10:28:59 | edumind.settings_dialog | INFO     | settings_dialog.py:370 | Settings saved successfully
+2026-02-25 10:29:36 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1753 chars
+2026-02-25 10:29:36 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 815 chars
+2026-02-25 10:29:36 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 2 chunks (avg: 1284 chars)
+2026-02-25 10:46:42 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 10:46:42 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 10:46:45 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 10:46:45 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 11:01:48 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 11:01:48 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 11:01:51 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 11:01:51 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 11:02:10 | edumind.auth         | INFO     | auth_service.py:272 | New OAuth user registered: shaqran via google
+2026-02-25 11:02:10 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran
+2026-02-25 11:02:10 | edumind.auth_dialogs | INFO     | auth_dialogs.py:572 | Google login successful: Shaqran
+2026-02-25 11:02:11 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 11:02:11 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 11:02:11 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 11:02:11 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 11:02:11 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 11:02:11 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 11:02:11 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 11:02:11 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 11:02:11 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 11:02:34 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1753 chars
+2026-02-25 11:02:34 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 815 chars
+2026-02-25 11:02:34 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 2 chunks (avg: 1284 chars)
+2026-02-25 11:02:36 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1760 chars
+2026-02-25 11:02:36 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 1792 chars
+2026-02-25 11:02:36 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 3: 931 chars
+2026-02-25 11:02:36 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 3 chunks (avg: 1494 chars)
+2026-02-25 11:03:03 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 11:03:39 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 11:03:55 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 11:04:11 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 13:47:54 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 13:47:54 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 13:47:57 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 13:47:57 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 2 users
+2026-02-25 13:48:35 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran
+2026-02-25 13:48:35 | edumind.auth_dialogs | INFO     | auth_dialogs.py:572 | Google login successful: Shaqran
+2026-02-25 13:48:35 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 13:48:35 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 13:48:35 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 13:48:35 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 13:48:35 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 13:48:35 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 13:48:35 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 13:48:35 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 13:48:35 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 13:48:55 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1760 chars
+2026-02-25 13:48:55 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 1792 chars
+2026-02-25 13:48:55 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 3: 931 chars
+2026-02-25 13:48:55 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 3 chunks (avg: 1494 chars)
+2026-02-25 13:49:14 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 13:49:45 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 13:50:15 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 13:50:27 | edumind.focus_mode   | INFO     | focus_mode.py:275 | Focus timer started
+2026-02-25 14:42:56 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 14:42:56 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 14:42:59 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 14:42:59 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 2 users
+2026-02-25 14:44:05 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 14:44:05 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 14:44:08 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 14:44:08 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 2 users
+2026-02-25 14:44:59 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran
+2026-02-25 14:44:59 | edumind.auth_dialogs | INFO     | auth_dialogs.py:572 | Google login successful: Shaqran
+2026-02-25 14:44:59 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 14:45:00 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 14:45:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 14:45:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 14:45:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 14:45:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 14:45:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 14:45:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 14:45:00 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 14:45:35 | edumind.settings_dialog | INFO     | settings_dialog.py:370 | Settings saved successfully
+2026-02-25 15:14:15 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 15:14:15 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 0 users
+2026-02-25 15:14:27 | edumind.auth         | INFO     | auth_service.py:272 | New OAuth user registered: shaqran124@gmail.com via google
+2026-02-25 15:14:27 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran124@gmail.com
+2026-02-25 15:14:27 | edumind.auth_dialogs | INFO     | auth_dialogs.py:617 | Google login successful: shaqran124@gmail.com (user: Shaqran124)
+2026-02-25 15:14:28 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 15:14:28 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 15:14:28 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 15:14:28 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 15:14:28 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 15:14:28 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 15:14:28 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 15:14:28 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 15:14:28 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 15:14:50 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 15:14:50 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 15:14:53 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 15:14:53 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 15:15:24 | edumind.email_verification | INFO     | email_verification.py:74 | SMTP not configured — verification code for shaqran124@gmail.com: 406116
+2026-02-25 20:00:08 | edumind.db           | INFO     | db.py:93 | Database schema initialized.
+2026-02-25 20:00:08 | edumind.migrations   | ERROR    | migrations.py:66 | Migration failed: string indices must be integers, not 'str'
+2026-02-25 20:00:12 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-02-25 20:00:12 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 1 users
+2026-02-25 20:00:50 | edumind.auth         | INFO     | auth_service.py:288 | OAuth login: shaqran124@gmail.com
+2026-02-25 20:00:50 | edumind.auth_dialogs | INFO     | auth_dialogs.py:617 | Google login successful: shaqran124@gmail.com (user: Shaqran124)
+2026-02-25 20:00:51 | edumind.focus_mode   | INFO     | focus_mode.py:55 | FocusModeWidget initialized
+2026-02-25 20:00:52 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-02-25 20:00:52 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-02-25 20:00:52 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-02-25 20:00:52 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-02-25 20:00:52 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-02-25 20:00:52 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-02-25 20:00:52 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-02-25 20:00:52 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-02-25 20:00:59 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1753 chars
+2026-02-25 20:00:59 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 815 chars
+2026-02-25 20:00:59 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 2 chunks (avg: 1284 chars)
+2026-02-25 20:01:50 | edumind.json_parser  | ERROR    | json_parser.py:160 | Failed to parse JSON after trying: ['direct_parse', 'extract_object', 'extract_array', 'clean_markdown', 'fix_trailing_commas', 'fix_single_quotes', 'nested_markdown', 'aggressive_brackets']
+2026-02-25 20:01:50 | edumind.json_parser  | DEBUG    | json_parser.py:161 | Raw input (first 500 chars): ```json
+{
+  "summary": "## Professional Profile Overview\nShaqran Hussain is a dedicated Software Engineering student demonstrating practical expertise across several critical domains, including SQA automation, data analytics, and desktop application development. He is proficient in key programming languages such as Java and Python, alongside robust SQL capabilities. A central focus of his professional approach is the development of software solutions that are not only reliable and efficient in 
+2026-02-25 20:02:00 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 20:02:32 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object
+2026-02-25 20:02:57 | edumind.json_parser  | DEBUG    | json_parser.py:66 | Parsed JSON by extracting object

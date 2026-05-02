@@ -1,0 +1,23 @@
+2026-04-30 23:27:52 | edumind.app_init     | INFO     | app_init.py:179 | Validating environment...
+2026-04-30 23:27:52 | edumind.app_init     | DEBUG    | app_init.py:186 | Python: 3.14.3
+2026-04-30 23:27:52 | edumind.app_init     | DEBUG    | app_init.py:200 | ✓ PyQt6
+2026-04-30 23:27:53 | edumind.app_init     | DEBUG    | app_init.py:200 | ✓ numpy
+2026-04-30 23:27:53 | edumind.app_init     | WARNING  | app_init.py:202 | ✗ networkx not installed
+2026-04-30 23:27:53 | edumind.app_init     | WARNING  | app_init.py:202 | ✗ pdfplumber not installed
+2026-04-30 23:27:53 | edumind.app_init     | ERROR    | app_init.py:206 | Missing packages: networkx, pdfplumber
+2026-04-30 23:27:53 | edumind.app_init     | ERROR    | app_init.py:207 | Run: pip install -r requirements.txt
+2026-04-30 23:28:51 | edumind.pdf_generator | WARNING  | pdf_generator.py:17 | reportlab not available — PDF export disabled
+2026-04-30 23:48:33 | edumind.pdf_generator | WARNING  | pdf_generator.py:17 | reportlab not available — PDF export disabled
+2026-04-30 23:59:22 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-04-30 23:59:23 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-04-30 23:59:23 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-04-30 23:59:23 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-04-30 23:59:23 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-04-30 23:59:23 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-04-30 23:59:23 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-04-30 23:59:23 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-04-30 23:59:23 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-05-01 00:00:12 | edumind.youtube      | ERROR    | youtube.py:59 | Failed to fetch transcript for qnAWC-18gfI: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-05-01 00:00:29 | edumind.youtube      | ERROR    | youtube.py:59 | Failed to fetch transcript for qnAWC-18gfI: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-05-01 00:00:44 | edumind.youtube      | ERROR    | youtube.py:59 | Failed to fetch transcript for NCB-lM_link: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-05-01 00:01:15 | edumind.auth         | INFO     | auth_service.py:51 | AuthService initialized with 0 users

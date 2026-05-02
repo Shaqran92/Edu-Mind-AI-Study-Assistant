@@ -1,0 +1,47 @@
+2026-03-25 19:05:23 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-03-25 19:05:24 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-03-25 19:05:24 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-03-25 19:05:24 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-03-25 19:05:24 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-03-25 19:05:24 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-03-25 19:05:24 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-03-25 19:05:24 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-03-25 19:05:24 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-03-25 19:05:50 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-03-25 19:19:25 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-03-25 19:20:13 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-03-25 19:22:41 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-03-25 19:22:42 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-03-25 19:22:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-03-25 19:22:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-03-25 19:22:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-03-25 19:22:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-03-25 19:22:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-03-25 19:22:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-03-25 19:22:42 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-03-25 19:22:57 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-03-25 19:27:36 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-03-25 19:27:38 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-03-25 19:27:38 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-03-25 19:27:38 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-03-25 19:27:38 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-03-25 19:27:38 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-03-25 19:27:38 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-03-25 19:27:38 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-03-25 19:27:38 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-03-25 19:27:44 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-03-25 19:32:41 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-03-25 19:47:37 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-03-25 19:59:55 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-03-25 20:08:18 | edumind.youtube      | WARNING  | youtube.py:20 | youtube_transcript_api not installed. YouTube features limited.
+2026-03-25 20:18:15 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-03-25 20:18:17 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-03-25 20:18:17 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-03-25 20:18:17 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-03-25 20:18:17 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-03-25 20:18:17 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-03-25 20:18:17 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-03-25 20:18:17 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-03-25 20:18:17 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-03-25 20:18:24 | edumind.youtube      | ERROR    | youtube.py:59 | Failed to fetch transcript for nmCfNHjfgEY: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-25 20:19:24 | edumind.youtube      | ERROR    | youtube.py:59 | Failed to fetch transcript for gGYZnlCO0l8: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'

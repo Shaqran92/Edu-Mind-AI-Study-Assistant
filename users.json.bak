@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "user_c2cdbbc42a702091",
+      "email": "shaqran124@gmail.com",
+      "username": "Shaqran124",
+      "password_hash": "",
+      "salt": "",
+      "auth_provider": "google",
+      "profile": {
+        "display_name": "Shaqran",
+        "avatar_url": "",
+        "bio": "",
+        "school": "",
+        "grade_level": "Other",
+        "subjects": [],
+        "study_goals": "",
+        "timezone": "UTC",
+        "language": "en"
+      },
+      "created_at": "2026-02-25T15:14:27.982840",
+      "last_login": "2026-03-07T15:54:24.424681",
+      "is_active": true,
+      "is_verified": true,
+      "oauth_token": "google_email_fallback",
+      "oauth_refresh_token": ""
+    },
+    {
+      "id": "user_0796cc8e4ff8c81a",
+      "email": "kjngtjgntrj@gmail.com",
+      "username": "Kjngtjgntrj",
+      "password_hash": "",
+      "salt": "",
+      "auth_provider": "google",
+      "profile": {
+        "display_name": "Kjngtjgntrj",
+        "avatar_url": "",
+        "bio": "",
+        "school": "",
+        "grade_level": "",
+        "subjects": [],
+        "study_goals": "",
+        "timezone": "UTC",
+        "language": "en"
+      },
+      "created_at": "2026-03-07T15:29:09.263119",
+      "last_login": "2026-03-07T15:29:09.263124",
+      "is_active": true,
+      "is_verified": true,
+      "oauth_token": "google_desktop_auth",
+      "oauth_refresh_token": ""
+    },
+    {
+      "id": "user_c53c64298be74669",
+      "email": "inshirah.shaqran@gmail.com",
+      "username": "Shaqran",
+      "password_hash": "ffcf3393b1725680c54abe7f2165098c16202609325731884c606d873b1767aa",
+      "salt": "3acde11dcbb267458f2a80f014152b60bcad965fe0ac20f804716827a21f04e4",
+      "auth_provider": "email",
+      "profile": {
+        "display_name": "Shaqran",
+        "avatar_url": "",
+        "bio": "",
+        "school": "",
+        "grade_level": "",
+        "subjects": [],
+        "study_goals": "",
+        "timezone": "UTC",
+        "language": "en"
+      },
+      "created_at": "2026-03-07T15:42:17.559297",
+      "last_login": "2026-03-07T15:42:17.687613",
+      "is_active": true,
+      "is_verified": true,
+      "oauth_token": "",
+      "oauth_refresh_token": ""
+    }
+  ]
+}

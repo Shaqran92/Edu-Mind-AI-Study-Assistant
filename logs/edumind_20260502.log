@@ -1,0 +1,95 @@
+2026-05-02 14:51:03 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-05-02 14:51:03 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-05-02 14:51:03 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-05-02 14:51:03 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-05-02 14:51:03 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-05-02 14:51:03 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-05-02 14:51:03 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-05-02 14:51:03 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1787 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 1777 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 3: 1790 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 4: 1770 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 5: 1794 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 6: 1754 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 7: 1799 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 8: 1798 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 9: 1788 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 10: 1780 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 11: 1792 chars
+2026-05-02 14:52:18 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 12: 1667 chars
+2026-05-02 14:52:18 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 12 chunks (avg: 1774 chars)
+2026-05-02 14:57:37 | edumind.youtube      | DEBUG    | youtube.py:74 | New API format failed: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=epdLk195PaM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-05-02 14:57:37 | edumind.youtube      | DEBUG    | youtube.py:83 | Old API format failed: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-05-02 14:57:57 | edumind.youtube      | DEBUG    | youtube.py:128 | List transcripts failed: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=epdLk195PaM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-05-02 14:57:57 | edumind.youtube      | DEBUG    | youtube.py:142 | Old list_transcripts failed: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+2026-05-02 14:57:57 | edumind.youtube      | ERROR    | youtube.py:144 | All transcript strategies failed for video: epdLk195PaM
+2026-05-02 14:59:00 | edumind.youtube      | DEBUG    | youtube.py:74 | New API format failed: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=KsX3fRnC_HQ! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-05-02 14:59:00 | edumind.youtube      | DEBUG    | youtube.py:83 | Old API format failed: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-05-02 14:59:21 | edumind.youtube      | DEBUG    | youtube.py:142 | Old list_transcripts failed: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+2026-05-02 14:59:21 | edumind.youtube      | ERROR    | youtube.py:144 | All transcript strategies failed for video: KsX3fRnC_HQ
+2026-05-02 17:06:07 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-05-02 17:06:07 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-05-02 17:06:07 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-05-02 17:06:07 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-05-02 17:06:07 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-05-02 17:06:07 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-05-02 17:06:07 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-05-02 17:06:07 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-05-02 17:08:29 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-05-02 17:08:32 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-05-02 17:08:32 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-05-02 17:08:32 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-05-02 17:08:32 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-05-02 17:08:32 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-05-02 17:08:32 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-05-02 17:08:32 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-05-02 17:08:32 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-05-02 17:09:01 | edumind.youtube      | WARNING  | youtube.py:21 | youtube_transcript_api not installed. YouTube features limited.
+2026-05-02 17:12:55 | edumind.db           | INFO     | db.py:149 | Database schema initialized.
+2026-05-02 17:12:57 | edumind.accessibility | INFO     | accessibility.py:31 | KeyboardShortcutManager initialized
+2026-05-02 17:12:57 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+, -> Open settings
+2026-05-02 17:12:57 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+D -> Toggle dark/light theme
+2026-05-02 17:12:57 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+1 -> Go to Dashboard
+2026-05-02 17:12:57 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+2 -> Go to Study Assistant
+2026-05-02 17:12:57 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+3 -> Go to Focus Mode
+2026-05-02 17:12:57 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: Ctrl+4 -> Go to Analytics
+2026-05-02 17:12:57 | edumind.accessibility | DEBUG    | accessibility.py:51 | Registered shortcut: F1 -> Show help
+2026-05-02 17:13:36 | edumind.gamification | INFO     | gamification.py:173 | GamificationService initialized - Level 1, XP: 50
+2026-05-02 17:13:36 | edumind.gamification | INFO     | gamification.py:203 | Awarded 50 XP: Study session (25 min)
+2026-05-02 17:13:36 | edumind.gamification | INFO     | gamification.py:209 | Level up! Now level 2
+2026-05-02 17:13:36 | edumind.pomodoro     | INFO     | pomodoro_timer.py:330 | Recorded Pomodoro session: 25 minutes
+2026-05-02 17:13:54 | edumind.youtube      | WARNING  | youtube.py:21 | youtube_transcript_api not installed. YouTube features limited.
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 1: 1787 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 2: 1777 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 3: 1790 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 4: 1770 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 5: 1794 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 6: 1754 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 7: 1799 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 8: 1798 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 9: 1788 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 10: 1780 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 11: 1792 chars
+2026-05-02 17:14:37 | edumind.text_chunker | DEBUG    | text_chunker.py:95 | Created chunk 12: 1667 chars
+2026-05-02 17:14:37 | edumind.text_chunker | INFO     | text_chunker.py:103 | Split text into 12 chunks (avg: 1774 chars)
